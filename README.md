@@ -6,9 +6,9 @@ The scripts do the encoding, geocoding of locations of records, and visualizatio
 
 Structure:
 
-- ├── LICENSE
-- ├── README.md
-- ├── preprocessing   <- Scripts to do the data cleaning, encoding, and geocoding
+- ├── LICENSE<br>
+- ├── README.md  
+- ├── preprocessing   <- Scripts to do the data cleaning, encoding, and geocoding<br>
 - ├── visualization   <- Scripts to create visualizations of the authors in the locations along the years
 
 
