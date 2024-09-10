@@ -9,7 +9,10 @@ Structure:
 ├── LICENSE<br>
 ├── README.md  
 ├── preprocessing   <- Scripts to do the data cleaning, encoding, and geocoding<br>
-├── visualization   <- Scripts to create visualizations of the authors in the locations along the years
+├── preprocessing   <- Scripts to do the data cleaning, encoding, and geocoding using openai API. Its now on the repository Useful_Knowledge, so this script will not be uodated here <br>
+├── visualization   <- Scripts to create visualizations of the authors in the locations along the years (Inicially were the scripts "Maps_authors.pynb" and "Maps_authors_NL_BE_UK.ipynb", but I want to gradually put everything only on visualization.ipynb. I am still working on it.<br>
+├── tests           <- Scripts to show the statistics of places not geocoded. Currently in the scripts "1401_cities_names_fixed.ipynb" and "authors_cities_not_geocoded.ipynb", but I want to keep everything on "tests". Still working on it.  
+
 
 
 
