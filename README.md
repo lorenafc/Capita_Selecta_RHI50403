@@ -14,6 +14,31 @@ Structure:
 ├── tests           <- Scripts to show the statistics of places not geocoded. Currently in the scripts "1401_cities_names_fixed.ipynb" and "authors_cities_not_geocoded.ipynb", but I want to keep everything on "tests". Still working on it.  
 
 
+## Environment Setup
+
+This project was built using **Python 3.8.19**. Make sure you are using this version or a compatible one to avoid potential issues with library compatibility.
+
+### Libraries:
+
+- **pandas**: Version `1.4.4`
+- **geopandas**: Version `0.13.2`
+- **requests**: Version `2.32.2`
+- **html** (module, no separate version)
+- **geopy**: Version `2.4.1`
+- **tqdm**: Version `4.66.4`
+- **googlemaps**: Version `4.10.0`
+- **matplotlib**: Version `3.4.3`
+- **contextily**: Version `1.6.0`
+- **pyproj**: Version `3.5.0`
+- **shapely**: Version `2.0.1`
+- **matplotlib-scalebar**: Version `0.8.1`
+
+### Media Processing Libraries:
+- **imageio**: Version `2.33.1` (for GIF creation)
+- **moviepy**: Version `1.0.3` (for video creation)
+
+### License
+This project is licensed under the MIT License.
 
 
 
